@@ -1,2 +1,2 @@
 # back-to-school
-Location of classes: Zoom
+Location of classes: CMU
