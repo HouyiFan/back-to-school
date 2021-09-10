@@ -1,2 +1,2 @@
 # back-to-school
-Dummy Description
+Location of classes: Zoom
